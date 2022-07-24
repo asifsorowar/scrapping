@@ -1,0 +1,8 @@
+1. Ideas for error catching/solving, retry strategies?
+	- Using try catch block.
+2. Accessing more ads from this link than the limit allows (max 50 pages)?
+	- didn't check as the pagination has max 8 pages.
+3. Experience with CI/CD tools?
+	- Git, AWS-Amplify, Heroku, AWS 
+4. Other considerations?
+      - scrapped the data and save the data in a csv file.
